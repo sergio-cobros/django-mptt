@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
