@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Improve Coral Edge TPU guide (#8160)
