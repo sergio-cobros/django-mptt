@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
