@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update TFLite Docs images (#8605)
