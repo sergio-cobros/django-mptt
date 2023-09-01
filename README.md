@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Update CITATION.cff with cffinit corrections (#8658)
