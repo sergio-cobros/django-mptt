@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Merge pull request #22 from SkalskiP/patch-1
