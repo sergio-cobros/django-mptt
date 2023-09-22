@@ -1,1 +1,1 @@
-added badges (#45)
+Updating a typo on paddlepaddle.md (#9108)
