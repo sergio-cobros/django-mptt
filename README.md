@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+ultralytics 8.0.229 add model.embed() method (#7098)
