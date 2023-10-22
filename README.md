@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Segment TensorRT batch=3 fix (#7952)
