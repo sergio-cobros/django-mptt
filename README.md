@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update the heatmap module code + docs (#7045)
