@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Move Explorer tests to scheduled CI (#8305)
