@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
