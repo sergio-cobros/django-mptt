@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update format.yml to pull_request_target (#7460)
