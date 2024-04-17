@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add visuals in guides/distance-calculation.md (#7876)
