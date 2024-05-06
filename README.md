@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
