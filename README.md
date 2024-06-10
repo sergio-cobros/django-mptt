@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Improve Docs arguments tables (#8415)
