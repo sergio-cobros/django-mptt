@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
