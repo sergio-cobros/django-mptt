@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Avoid creating -hub dir without processing images (#8334)
