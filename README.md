@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update Discord and Contributing Guide URLs (#9270)
