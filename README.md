@@ -1,1 +1,1 @@
-example Google Colab
+Mkdocs annotations fixes (#7600)
