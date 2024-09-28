@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Docs partial mdformat improvements (#7378)
